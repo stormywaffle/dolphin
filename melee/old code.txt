@@ -1,0 +1,12 @@
++$Change the blank space in the name entry menu to !
+20BD6CD8 0B20E30F
+04BD6CD8 0B20EC0F
+E2000001 80008000
+
++$Change the blank space in the name entry menu to !
+42000000 80000000
+20BD6CD8 0B20E30F
+04BD6CD8 0B20EC0F
+E2000001 80008000
+
+803a6cb0
