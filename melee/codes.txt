@@ -209,13 +209,13 @@ $player 4 gets two AI clones.
 $Swap A and B
 0A46B108 00000100
 04452C6C 00000004
-$Training mode boots in develop mode.
+$Training mode boots in develop mode [stormywaffle]
 C8BDA603 000000FF
 0C406E54 005D40DC
 044D4A08 00000004
 14406E54 005D40DC
 044D4A08 00000000
-+$Training mode boots in develop mode with TDEV Rumble set to on
++$Training mode boots in develop mode with TDEV Rumble set to on [stormywaffle]
 CC45D850 82738263
 CC45D854 82648275
 CC45D858 00010500
@@ -224,16 +224,16 @@ C8BDA603 000000FF
 044D4A08 00000004
 14406E54 005D40DC
 044D4A08 00000000
-$Switch Uppercase A with lower case a, icon selection only.
+$Switch Uppercase A with lower case a, icon selection only. [stprmywaffle]
 0CBD7009 0B200A0F
 04BD7009 0B20240F
-+$Change the blank space in the name entry menu to !
++$Change the blank space in the name entry menu to ! [stormywaffle]
 0CBD6CD8 0B20E30F
 04BD6CD8 0B20EC0F
-+$Change the blank space in the Vs name entry menu to !
++$Change the blank space in the Vs name entry menu to ! [stormywaffle]
 0CBD6C10 0B20E30F
 04BD6C10 0B20EC0F
-+$Visually switch all english letters in name entry to lower case using !.
++$Visually switch all english letters in name entry to lower case using ! [stormywaffle]
 CC4A04F0 12020002
 CCBD6CD8 0B20EC0F
 CA46B108 00000100
@@ -290,7 +290,7 @@ CA46B108 00000100
 04BD6E54 0B203D0F
 04BD6D37 0B20EC0F
 04BD6CD8 0B21040F
-+$Switch back to uppercase with hashtag
++$Switch back to uppercase with hashtag [stormywaffle]
 CC4A04F0 12020007
 CCBD6D37 0B20EC0F
 CA46B108 00000100
@@ -348,7 +348,7 @@ CA46B108 00000100
 04BD6E54 0B20230F
 04BD6CD8 0B20EC0F
 04BD6D37 0B20E30F
-$OLD DO NOT USE Shift In English Name Entry Menu
+$OLD DO NOT USE Shift In English Name Entry Menu [stormywaffle]
 CC4A04F0 12020002
 CA46B108 00000100
 0D3850B8 01019191
@@ -357,13 +357,13 @@ CA46B108 00000100
 053850B8 01019191
 0D3850B8 03019191
 053850B8 02019191
-$OLD DO NOT USE Actual Lower Case Tags Test
+$OLD DO NOT USE Actual Lower Case Tags Test [stormywaffle]
 CCBD6D37 0B20EC0F
 CA46B108 00000100
 CC4A04F0 1202002D
 C93850B8 00000001
 024A0740 00008281
-+$Visually switch all english letters in Vs. Name entry to lower case.
++$Visually switch all english letters in Vs. Name entry to lower case [stormywaffle]
 CC4A04F0 12020002
 CCBD6C10 0B20EC0F
 CA46B108 00000100
@@ -421,7 +421,7 @@ CA46B108 00000100
 04BD6D8C 0B203D0F
 04BD6C6F 0B20EC0F
 04BD6C10 0B21040F
-+$Switch back to uppercase with hashtag in Vs. Menu
++$Switch back to uppercase with hashtag in Vs. Menu [stormywaffle]
 CC4A04F0 12020007
 CCBD6C10 0B21040F
 CA46B108 00000100
@@ -479,7 +479,7 @@ CA46B108 00000100
 04BD6D8C 0B20230F
 04BD6C6F 0B20E30F
 04BD6C10 0B20EC0F
-+$Visually switch all english letters in Training-mode to lower case.
++$Visually switch all english letters in Training-mode to lower case [stormywaffle]
 CC4A04F0 12010002
 CCBD6C10 0B20EC0F
 CA46B108 00000100
@@ -537,7 +537,7 @@ CA46B108 00000100
 04BD6D8C 0B203D0F
 04BD6C6F 0B20EC0F
 04BD6C10 0B21040F
-+$Visually switch all english letters in Classic and Adventure Mode to lower case.
++$Visually switch all english letters in Classic and Adventure Mode to lower case [stormywaffle] 
 CC4A04F0 12060002
 CCBD6C10 0B20EC0F
 CA46B108 00000100
@@ -595,7 +595,7 @@ CA46B108 00000100
 04BD6D8C 0B203D0F
 04BD6C6F 0B20EC0F
 04BD6C10 0B21040F
-+$Visually switch all english letters in BTT and HRC to lower case.
++$Visually switch all english letters in BTT and HRC to lower case [stormywaffle]
 CC4A04F0 12090002
 CCBD6C10 0B20EC0F
 CA46B108 00000100
@@ -653,7 +653,7 @@ CA46B108 00000100
 04BD6D8C 0B203D0F
 04BD6C6F 0B20EC0F
 04BD6C10 0B21040F
-+$Visually switch all english letters in Multi-Man Melee to lower case.
++$Visually switch all english letters in Multi-Man Melee to lower case [stormywaffle]
 CC4A04F0 12210002
 CCBD6C10 0B20EC0F
 CA46B108 00000100
@@ -711,7 +711,7 @@ CA46B108 00000100
 04BD6D8C 0B203D0F
 04BD6C6F 0B20EC0F
 04BD6C10 0B21040F
-+$Visually switch all english letters in Event Mode to lower case.
++$Visually switch all english letters in Event Mode to lower case [stormywaffle]
 CC4A04F0 12070002
 CCBD6C10 0B20EC0F
 CA46B108 00000100
@@ -798,7 +798,7 @@ $Unrestricted Pause Camera [Link Master]
 04450F9C 42000000
 04450FA0 40200000
 04450FA4 47000000
-$Player 1 spawn as Male Wireframe in Vs. Mode
+$P1 spawn as Male Wireframe in Vs. Mode [stormywaffle]
 #If a match has yet to be played and Pikachu is Player 1.
 20480820 0D000000
 #Load male wireframe instead.
@@ -812,16 +812,16 @@ E0000000 80008000
 $Swap A and B
 # If a is pressed.
 2046B109 00000001
-# Do b instead.
+# Do b instead. 
 04452C6C 00000004
 #End conditional.
 E0000000 80008000
-$Change A to lower case a
+$Change A to lower case a [stormywaffle]
 C223C27C 00000003
 2C000060 40820008
 38000081 98030001
 60000000 00000000
-$Lower Case Letters beta
+$Lower Case Letters beta [stormywaffle]
 C223C27C 0000000A
 3DC080BD 39CE6D37
 81CE0000 3DE00B20
@@ -833,7 +833,7 @@ C223C27C 0000000A
 2F800079 419D000C
 380F0021 39E00000
 98030001 00000000
-+$Lower Case Letters v1.0
++$Lower Case Letters v1.0 [stormywaffle]
 C223C27C 00000014
 3DC080BD 39CE6D37
 81CE0000 3DE00B20
